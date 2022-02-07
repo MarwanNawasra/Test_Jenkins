@@ -7,10 +7,10 @@
 #include <stdio.h>
 
 int
-main(void)
+main(              void)
 {
-  printf("main");
+                  printf(                                 "main");
 
 
-  return 0;
+  return                                0;
 }
