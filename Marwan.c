@@ -7,9 +7,8 @@
 #include <stdio.h>
 
 int
-main(void)
+main(          void)
 {
-  printf("Marwan");
+  printf("Marwan"         );
 
-  return 0;
-}
+                   return 0;}
