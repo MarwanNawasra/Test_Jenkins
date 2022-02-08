@@ -8,6 +8,6 @@
 
 int main(       void)
 {
-  printf("Marwan"        );
+  printf(                    "Marwan"        );
   return 0          ;
 }
