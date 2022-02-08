@@ -8,6 +8,6 @@
 
 int main(void)
 {
-  printf(                    "Main"   );
-  return 0;
+  printf(                    "Main"   )                 ;
+  return 0                 ;
 }
