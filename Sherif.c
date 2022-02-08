@@ -6,7 +6,8 @@
  */
 #include <stdio.h>
 
-int  main(void)
-{ printf(        "Sherif");
-
-  return 0;                           }
+int main(void)
+{ 
+  printf("Sherif");
+  return 0;                          
+}
