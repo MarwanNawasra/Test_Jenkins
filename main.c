@@ -6,11 +6,8 @@
  */
 #include <stdio.h>
 
-int
-main(              void)
+int main(void)
 {
-                  printf(                                 "main");
-
-
-  return                                0;
+  printf("ain");
+  return 0;
 }
