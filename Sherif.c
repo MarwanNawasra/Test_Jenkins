@@ -6,7 +6,7 @@
  */
 #include <stdio.h>
 
-int main(void      )
+int main(                             void      )
 { 
   printf(           "Sherif"                                 )        ;
   return 0          ;                          
